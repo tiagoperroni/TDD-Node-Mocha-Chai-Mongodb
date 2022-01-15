@@ -6,6 +6,7 @@ Como utilizar o projeto:...
 Dep: npm install
 Server: npm run dev
 Testes: npm test
+Mongodb: docker run –d -p 27017:27017 --name nome-do-container mongo
 ```
 
 
